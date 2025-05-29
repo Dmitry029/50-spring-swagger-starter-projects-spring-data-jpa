@@ -1,0 +1,1 @@
+# 50-spring-swagger-starter-projects-spring-data-jpa
